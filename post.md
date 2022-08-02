@@ -1,0 +1,3 @@
+# Testing the git stash command
+
+This is a test to see how the git stash command works.
